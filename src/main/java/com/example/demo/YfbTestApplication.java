@@ -8,6 +8,6 @@ public class YfbTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(YfbTestApplication.class, args);
-		System.out.println("hahah");
+		System.out.println("i am your friend");
 	}
 }
